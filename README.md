@@ -32,7 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-maxs-projects-44b8669c.vercel.app/api?username=Max00009&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-git-master-maxs-projects-44b8669c.vercel.app/api/top-langs/?username=Max00009&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-git-master-maxs-projects-44b8669c.vercel.app/api/top-langs/?username=Max00009&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats" alt="Top Languages" height="165"/>
 </p>
 
 
