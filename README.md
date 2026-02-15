@@ -30,13 +30,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max00009&amp;theme=blueberry" alt="" loading="lazy">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Max00009&amp;theme=blueberry&amp;hide=html,css&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" alt="" loading="lazy">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Max00009&amp;theme=blueberry&amp;rank_icon=github&amp;show_icons=true&amp;count_private=true" alt="" loading="lazy">
-</p>
-
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max00009&amp;theme=blueberry" alt="Profile Details" width="100%">
+  <br><br>
+  <table>
+    <tr>
+      <td valign="top"><img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Max00009&amp;theme=blueberry&amp;hide=html,css&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;layout=compact&amp;langs_count=10"></td>
+      <td valign="top"><img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Max00009&amp;theme=blueberry&amp;rank_icon=github&amp;show_icons=true&amp;count_private=true"></td>
+    </tr>
+  </table>
+</div>
 ---
 
 
