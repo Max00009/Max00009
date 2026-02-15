@@ -39,7 +39,7 @@
   <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Max00009&amp;theme=blueberry&amp;rank_icon=github&amp;show_icons=true&amp;count_private=true" width="49%">
 
   <br>
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=slavetomints&amp;theme=blueberry" alt="" loading="lazy" width="100%">
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Max00009&amp;theme=blueberry" alt="" loading="lazy" width="100%">
 </div>
 ---
 
