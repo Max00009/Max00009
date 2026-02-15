@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max00009&amp;theme=blueberry" alt="" loading="lazy">
   <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Max00009&amp;theme=blueberry&amp;hide=html,css&amp;hide_border=false&amp;no-bg=true&amp;no-          frame=true&amp;layout=compact&amp;langs_count=10" alt="" loading="lazy">
-  <img src="https://github-readme-stats-git-master-maxs-projects-44b8669c.vercel.app/api/top-langs/?username=Max00009&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+
 </p>
 
 
