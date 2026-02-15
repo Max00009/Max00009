@@ -31,6 +31,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slavetomints&amp;theme=blueberry" class="popup img-link">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max00009&amp;theme=blueberry" alt="" loading="lazy">
   <img src="https://github-readme-stats-git-master-maxs-projects-44b8669c.vercel.app/api?username=&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats-git-master-maxs-projects-44b8669c.vercel.app/api/top-langs/?username=Max00009&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
