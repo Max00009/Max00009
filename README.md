@@ -6,7 +6,7 @@
 
 — I started coding on Termux on my phone and now code on a MacBook
 
-— I focus on low-level systems, binary exploitation, and red team techniques.
+— I focus on low-level systems, binary exploitation, reverse engineering, malware analysis and red team techniques.
 
 ---
 
