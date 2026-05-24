@@ -1,4 +1,4 @@
-# Hi — I'm Max 👋
+# Hi — I'm Max
 
 **Desperate learner | Systems Programming | Pentester | Red Teaming | Binary Exploitation | Cryptography**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max00009&amp;theme=blueberry" alt="Profile Details" width="100%">
@@ -44,14 +44,14 @@
 ---
 
 
-### 📚 Learning goals & notes
+### Learning goals & notes
 - Deep dive into **Linux internals** (processes, signals, syscalls).  
 - Master **gdb/qemu** debugging workflows for ARM/x86 binaries.  
 - Document every project with **explainers** so others (and future me) can learn.
 
 ---
 
-### 📫 Contact
+### Contact
 - Email: `amelia.legislate498@passinbox.com`  
 
 ---
