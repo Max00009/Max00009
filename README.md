@@ -1,6 +1,6 @@
 # Hi — I'm Max 👋
 
-**Desperate learner | Systems Programming | Binary Exploitation & Red Team | Cryptography**
+**Desperate learner | Systems Programming | Pentester | Red Teaming | Binary Exploitation | Cryptography**
 
 — I build things from scratch to learn how they work under the hood.
 
