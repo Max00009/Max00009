@@ -52,6 +52,7 @@
 ---
 
 ### Contact
-- Email: `amelia.legislate498@passinbox.com`  
+- Email: `amelia.legislate498@passinbox.com`
+- LinkedIn: `www.linkedin.com/in/max-stephens-59048b411` 
 
 ---
