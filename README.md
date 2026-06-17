@@ -53,6 +53,7 @@
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-stephens-59048b411)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTaNc5BWqO_vW09BsLRXTNA)
 - Email: `amelia.legislate498@passinbox.com`
 - LinkedIn: `www.linkedin.com/in/max-stephens-59048b411`
 - Discord: `max_7396`
