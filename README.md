@@ -46,8 +46,9 @@
 
 ### Learning goals & notes
 - Deep dive into **Linux internals** (processes, signals, syscalls).  
-- Master **gdb/qemu** debugging workflows for ARM/x86 binaries.  
-- Document every project with **explainers** so others (and future me) can learn.
+- Master **gdb/qemu** debugging workflows for ARM/x86 binaries.
+- Understand how low-level programs work under the hood.
+- Document every project with explainers so others (and future me) can learn.
 
 ---
 
