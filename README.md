@@ -4,7 +4,7 @@
 
 — I build things from scratch to learn how they work under the hood.
 
-— I started coding on Termux on my phone and now code on a MacBook
+— I started coding on Termux on my phone.
 
 — I focus on low-level systems, binary exploitation, reverse engineering, malware analysis and red team techniques.
 
@@ -45,8 +45,8 @@
 
 
 ### Learning goals & notes
-- Deep dive into **Linux internals** (processes, signals, syscalls).  
-- Master **gdb/qemu** debugging workflows for ARM/x86 binaries.
+- Deep dive into Linux internals(processes, signals, syscalls).  
+- Master gdb/qemu debugging workflows for ARM/x86 binaries.
 - Understand how low-level programs work under the hood.
 - Document every project with explainers so others (and future me) can learn.
 
